@@ -7,7 +7,7 @@
 
 **1. apktool :** Download and install apktool as per instructions given at [https://ibotpeaches.github.io/Apktool/install/](https://ibotpeaches.github.io/Apktool/install/). Dependencies: Java 8 (JRE 1.8) and above.
 
-**2. MobSF :** In this session, we are going to use a web-based open source framework (MobSF) to analyzing a sample (malware/benign). To make hand-on faster, we have hosted this framework temporarily on the IITH network only for this session and can be accessed on the URL [http://10.9.5.61:8000/](http://10.9.5.61:8000/). You can download MobSF from [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) and configure as per the instruction given in README file.
+**2. MobSF :** In this session, we are going to use a web-based open source framework (MobSF) to analyzing a sample (malware/benign). To make hand-on faster, we have hosted this framework temporarily on the IITH network only for this session and can be accessed on the URL ~~[http://10.9.5.61:8000/](http://10.9.5.61:8000/)~~. You can download MobSF from [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) and configure as per the instruction given in README file.
 
 
 ## Other Tools to explored by own
